@@ -95,7 +95,7 @@ main {
 .btn-cinema-disabled {
     background-color: #f5c5c8;
     border-color: #f5c5c8;
-    color: #8c2c32;
+    color: #a23e40;
     cursor: not-allowed;
     box-shadow: none;
 }
